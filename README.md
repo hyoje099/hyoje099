@@ -33,4 +33,3 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hyoje099/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
 </a>
-<a href="hyoje099@naver.com" target="_blank"><img src="https://camo.githubusercontent.com/a9a34df45cc5c250151bce6957f359912f3fb5738c7fc3d0b7c55fba65930071/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e617665722d3033433735413f7374796c653d666c61742d737175617265266c6f676f3d4e61766572266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a726c61746e67757331363931406e617665722e636f6d" alt="Naver Badge" data-canonical-src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=white&amp;link=mailto:hyoje099@naver.com" style="max-width: 100%;"></a>
