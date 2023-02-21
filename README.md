@@ -4,12 +4,6 @@
 [![wakatime](https://wakatime.com/badge/user/9566c98e-0942-41bf-951a-6b7651fed032.svg)](https://wakatime.com/@9566c98e-0942-41bf-951a-6b7651fed032)
 
 
-### studing time
-<p> 
-  <script src="https://gist.github.com/hyoje099/898e812b1aad3911608cd035a71913d1.js"></script>
-</p>
-
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyoje099&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyoje099&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
