@@ -9,7 +9,7 @@
 </p>
 #문제연습
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoje099)](https://solved.ac/hyoje099/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoje099)](https://solved.ac/hyoje099/)   <img src="http://mazandi.herokuapp.com/api?handle=hyoje099&theme=dark"/>
 # 📄Learning
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -23,7 +23,8 @@
 
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoje099&hide_progress=true)](https://github.com/hyoje099/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoje099&hide_progress=true)](https://github.com/hyoje099/github-readme-stats)   
+![hyoje099's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoje099&show_icons=true&theme=transparent)
 
 
 # :mailbox_with_mail: Contacts
